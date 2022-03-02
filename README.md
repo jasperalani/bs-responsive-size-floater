@@ -3,3 +3,6 @@ Response size floater for Bootstrap
 
 ### Usage
 Link `bs-resp.js` in your html file and it will inject the neccessary code on page load.
+
+#### Note
+Bootstrap is required and not bundled in this repo.
